@@ -1,4 +1,4 @@
-# sent_id = Gorontalo_sentences_batch_2__1
+# sent_id = 1
 # text = Longola tabung boyito mololo
 # text_en = "Why is the girl sad?"
 1	Longola	longola	ADV	_	_	4	advmod	_	Gloss=why
@@ -6,28 +6,28 @@
 3	boyito	boyito	DET	_	_	2	det	_	Gloss=DEM
 4	mololo	lolo	ADJ	_	Mood=Irr	0	root	_	Gloss=sad-irr
 
-# sent_id = Gorontalo_sentences_batch_2__2
+# sent_id = 2
 # text = Bele boyito bohu
 # text_en = "The houses are new"
 1	Bele	bele	NOUN	_	_	3	nsubj	_	Gloss=house
 2	boyito	boyito	DET	_	_	1	det	_	Gloss=DEM
 3	bohu	bohu	ADJ	_	_	0	root	_	Gloss=new
 
-# sent_id = Gorontalo_sentences_batch_2__3
+# sent_id = 3
 # text = Bele bele boyito bohu
 1	Bele	bele	NOUN	_	_	4	nsubj	_	Gloss=house
 2	bele	bele	NOUN	_	_	1	compound:redup	_	Gloss=house
 3	boyito	boyito	DET	_	_	1	det	_	Gloss=DEM
 4	bohu	bohu	ADJ	_	_	0	root	_	Gloss=new
 
-# sent_id = Gorontalo_sentences_batch_2__4
+# sent_id = 4
 # text = Kapali liyo damango
 # text_en = "His boat is big"
 1	Kapali	kapali	NOUN	_	_	3	nsubj	_	Gloss=boat
 2	liyo	liyo	PRON	_	Case=Gen|Number=Sing	1	nmod:poss	_	Gloss=3.SG.GEN
 3	damango	damango	ADJ	_	_	0	root	_	Gloss=big
 
-# sent_id = Gorontalo_sentences_batch_2__5
+# sent_id = 5
 # text = Te Pulu wutata li Ati
 # text_en = "Ati is Pulu's sibling"
 1	Te	te	ADP	_	Case=Nom|Gender=Masc	2	case	_	Gloss=PIV.PROPN.MASC
@@ -36,7 +36,7 @@
 4	li	li	ADP	_	Case=Gen|Gender=Fem	5	case	_	Gloss=NPIV.FEM
 5	Ati	Ati	PROPN	_	_	3	nmod	_	Gloss=ati
 
-# sent_id = Gorontalo_sentences_batch_2__6
+# sent_id = 6
 # text = Te Pulu londo Limutu
 # text_en = "Pulu is from Limboto"
 1	Te	te	ADP	_	Case=Nom|Gender=Masc	2	case	_	Gloss=PIV.PROPN.MASC
@@ -44,7 +44,7 @@
 3	londo	londo	ADP	_	Case=Abl	4	case	_	Gloss=from
 4	Limutu	Limutu	PROPN	_	_	0	root	_	Gloss=Limboto
 
-# sent_id = Gorontalo_sentences_batch_2__7
+# sent_id = 7
 # text = Tiyo lolangi to bulalo
 # text_en = "He swam across the lake"
 1	Tiyo	tiyo	PRON	_	Case=Nom|Number=Sing|Person=3	2	nsubj:actor	_	Gloss=3.SG.PIV
@@ -52,7 +52,7 @@
 3	to	to	ADP	_	Case=Loc	4	case	_	_
 4	bulalo	bulalo	NOUN	_	_	2	obl	_	Gloss=lake
 
-# sent_id = Gorontalo_sentences_batch_2__8
+# sent_id = 8
 # text = Ti mama lodungoge ta unge hiyo-hiyongo
 # text_en = "Mom heard the baby crying"
 1	Ti	ti	ADP	_	Case=Nom|Gender=Fem	2	case	_	_
@@ -62,7 +62,7 @@
 5	unge	unge	NOUN	_	_	3	obj:patient	_	Gloss=baby
 6	hiyo-hiyongo	hiyo-hiyongo	VERB	_	Mood=Ind	5	xcomp	_	_
 
-# sent_id = Gorontalo_sentences_batch_2__9
+# sent_id = 9
 # text = Ti Dewi lo-tubu uponula
 # text_en = "Dewi cooked the fish" (actor voice)
 1	Ti	ti	ADP	_	Case=Nom|Gender=Fem	2	case	_	_
@@ -70,7 +70,7 @@
 3	lo-tubu	tubu	VERB	_	Mood=Ind|Voice=Act	0	root	_	MSeg=lo-tubu
 4	uponula	uponula	NOUN	_	_	3	obj	_	Gloss=fish
 
-# sent_id = Gorontalo_sentences_batch_2__10
+# sent_id = 10
 # text = Uponula tilubu li Dewi
 # text_en = "Dewi cooked the fish" (patient voice)
 1	Uponula	uponula	NOUN	_	_	2	nsubj:patient	_	Gloss=fish
@@ -78,7 +78,7 @@
 3	li	li	ADP	_	Case=Gen|Gender=Fem	4	case	_	Gloss=NPIV.FEM
 4	Dewi	Dewi	PROPN	_	_	2	obj:actor	_	Gloss=Dewi
 
-# sent_id = Gorontalo_sentences_batch_2__11
+# sent_id = 11
 # text = Bulonggo pilo-tubu li Dewi uponula
 # text_en = "Dewi cooked the fish in the pan" (instrument voice)
 1	Bulonggo	bulonggo	NOUN	_	_	2	nsubj:instrument	_	_
@@ -87,7 +87,7 @@
 4	Dewi	Dewi	PROPN	_	_	2	obj:actor	_	Gloss=Dewi
 5	uponula	uponula	NOUN	_	_	2	iobj:patient	_	Gloss=fish
 
-# sent_id = Gorontalo_sentences_batch_2__12
+# sent_id = 12
 # text = Uponula tilubu li Dewi lo bulonggo
 # text_en = "Dewi cooked the fish in the pan" (patient voice)
 1	Uponula	uponula	NOUN	_	_	2	nsubj:patient	_	Gloss=fish
