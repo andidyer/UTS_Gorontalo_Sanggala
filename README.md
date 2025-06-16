@@ -1,9 +1,9 @@
 # UTS_Gorontalo_Sanggala
 This is a temporary repository for a Universal Dependencies-annotated treebank of Gorontalo, in connection with the upcoming paper:
 
-'''
-Andrew Dyer and Colleen Alena O'Brien, _Towards better annotation practices for symmetrical voice in Universal Dependencies_, Universal Dependencies Workshop at Syntaxfest, Ljubljana, August 2025
-'''
+
+> Andrew Dyer and Colleen Alena O'Brien, _Towards better annotation practices for symmetrical voice in Universal Dependencies_, Universal Dependencies Workshop at Syntaxfest, Ljubljana, August 2025
+
 
 The current location is temporary as our project is at an early stage of getting feedback and establishing ideas.
 Once an official Universal Dependencies repository has been created, a redirection to that repository will be given here.
