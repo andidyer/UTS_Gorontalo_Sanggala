@@ -5,8 +5,9 @@ This is a temporary repository for a Universal Dependencies-annotated treebank o
 > Andrew Dyer and Colleen Alena O'Brien, _Towards better annotation practices for symmetrical voice in Universal Dependencies_, Universal Dependencies Workshop at Syntaxfest, Ljubljana, August 2025
 
 
-The current location is temporary as our project is at an early stage of getting feedback and establishing ideas.
-Once an official Universal Dependencies repository has been created, a redirection to that repository will be given here.
+This is a temporary repository that we used at an early stage of getting feedback and establishing ideas. The official Universal Dependencies repository is here:
+https://github.com/UniversalDependencies/UD_Gorontalo-BungoLoLombi/tree/dev
+
 
 The name _Sanggala_ is from a Gorontalo dish of fried flour-coated bananas, and is a temporary name assigned while we decide on the permanent name. Or it may become permanent, who knows.
 
